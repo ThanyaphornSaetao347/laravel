@@ -1,0 +1,1 @@
+import{o as e,f as t,b as r,F as u,k as s,t as o}from"./app-QHpFjBrd.js";const p=r("br",null,null,-1),d={__name:"happy",props:["dept","emp"],setup(a){return(c,i)=>(e(),t("div",null,[r("ul",null,[(e(!0),t(u,null,s(a.dept,(l,n)=>(e(),t("li",{key:n},o(l),1))),128))]),p,r("ul",null,[(e(!0),t(u,null,s(a.emp,(l,n)=>(e(),t("li",{key:n},o(l),1))),128))])]))}};export{d as default};
